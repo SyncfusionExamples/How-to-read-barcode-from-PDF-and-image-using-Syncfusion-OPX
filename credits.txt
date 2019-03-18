@@ -1,0 +1,10 @@
+Credits
+The Syncfusion.BarcodeReader.OPX library uses Open Source code. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+Project: http://zxingnet.codeplex.com/
+License (Apache License 2.0 (Apache)) http://zxingnet.codeplex.com/license
+
+Project: https://github.com/zxing/zxing
+License (Apache License 2.0 (Apache)) https://github.com/zxing/zxing/blob/master/LICENSE
+
+
