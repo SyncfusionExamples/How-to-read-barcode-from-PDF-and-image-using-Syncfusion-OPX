@@ -1,8 +1,8 @@
-# How to read barcode from PDF and image using Syncfusion OPX
+# How to read barcode from PDF and image using Syncfusion&reg; OPX
 
 ZXing (zebra crossing) is an open-source tool to decode barcodes within images that fall under the Apache 2.0 license. It allows users to scan most of the 1D and 2D barcodes, including QR codes and data matrix barcodes.
 
-Syncfusion [Barcode Reader OPX](https://www.syncfusion.com/products/opx/barcode) is used to optimize the working of ZXing with Syncfusion [.NET PDF library](https://www.syncfusion.com/pdf-framework/net). This scans the barcode from the PDF document and returns the barcode value and type.
+Syncfusion&reg; [Barcode Reader OPX](https://www.syncfusion.com/products/opx/barcode) is used to optimize the working of ZXing with Syncfusion&reg; [.NET PDF library](https://www.syncfusion.com/pdf-framework/net). This scans the barcode from the PDF document and returns the barcode value and type.
 
 ## Assembly Requirement
 To use the Barcode Reader feature in applications, references need to be added to the following set of assemblies:
