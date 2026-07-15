@@ -7,28 +7,13 @@ Syncfusion&reg; [Barcode Reader OPX](https://www.syncfusion.com/products/opx/bar
 ## Assembly Requirement
 To use the Barcode Reader feature in applications, references need to be added to the following set of assemblies:
 
-<table>
-<tr>
-<td><b>Assembly Name</b></td>
-<td><b>Description</b></td>
-</tr>
-<tr>
-<td>Syncfusion.Pdf.Base</td>
-<td>This assembly contains the core feature for manipulating and saving PDF documents.</td>
-</tr>                   
-<tr>
-<td>Syncfusion.Compression.Base</td>
-<td>This assembly compresses the internal contents of a PDF document.</td>
-</tr>
-<tr>
-<td>Syncfusion.BarcodeReader.OPX</td>
-<td>This assembly is the wrapper for the ZXing assembly using ZXing features.</td>
-</tr>
-<tr>
-<td>zxing</td>
-<td> Decodes Barcode within the image</td>
-</tr>
-</table>
+Assembly Name | Description
+--- | ---
+Syncfusion.Pdf.Base | This assembly contains the core feature for manipulating and saving PDF documents.
+Syncfusion.Compression.Base | This assembly compresses the internal contents of a PDF document.
+Syncfusion.BarcodeReader.OPX | This assembly is the wrapper for the ZXing assembly using ZXing features.
+zxing | Decodes barcode within the image.
+
 The following namespace should be included in the application:
 
 ```C#
